@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Pin"
+          android:id="@+id/toolbar_full_detail_note_items_pin"
+          android:icon="@drawable/action_pin"
+          app:showAsAction="always"/>
+    <item
+        android:title="Archive"
+        android:id="@+id/toolbar_full_detail_note_items_archive_toggle"
+        android:icon="@drawable/action_unarchive"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="Delete"
+        android:id="@+id/toolbar_full_detail_note_items_delete"
+        android:icon="@drawable/action_delete"
+        app:showAsAction="always"
+        />
+</menu>

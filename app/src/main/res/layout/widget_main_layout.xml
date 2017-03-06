@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Main Widget layout that contain widget layout as child-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="@color/colorWhite">
+    <ListView
+        android:id="@+id/widget_main_list_view"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+    </ListView>
+     <!--Empty view is show if list items are empty -->
+    <TextView
+        android:id="@+id/widget_empty_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/widget_empty"
+        android:textColor="@color/colorDark"
+        android:textSize="20sp"
+        android:visibility="visible"/>
+</FrameLayout>

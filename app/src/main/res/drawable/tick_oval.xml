@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shape_oval" android:id="@+id/tick_oval_oval"/>
+    <item android:drawable="@drawable/action_tick" android:id="@+id/tick_oval_tick" />
+</layer-list>

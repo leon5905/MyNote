@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyNote</string>
+
+    <string name="navigation_drawer_open">Open Menu</string>
+    <string name="navigation_drawer_close">Close Menu</string>
+
+    <string name="widget_empty">Empty</string>
+
+    <string name="activity_home_create_new_note"> + Tap to create new note</string>
+
+    <string name="activity_full_deatail_note_title_hint">Title</string>
+    <string name="activity_full_deatail_note_content_hint">Write your note here</string>
+    <string name="activity_full_deatail_note_checklist_hint">List Item</string>
+    <string name="activity_full_detail_note_checklist_hint_add">+ ITEM</string>
+
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_date_hint">Select Date</string>
+    <string name="dialog_time_hint">Select Time</string>
+
+    <string name="preference_file_key_widget">yeohweizhu.myname.WidgetPreference</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Special Color-->
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorDark">#212121</color>
+    <color name="colorLightGray">#d3d3d3</color>
+    <color name="colorGray">#BDBDBD</color>
+    <color name="colorDarkGray">#616161</color>
+    <color name="colorDarkestGray">#212121</color>
+    <color name="colorWhite">#FAFAFA</color>
+
+    <!--Note Color Selection, Huge selection for large personality diversity :) -->
+    <color name="colorLightYellow">#FFFF8D</color>
+    <color name="colorLightRed">#FF8A80</color>
+    <color name="colorLightGreen">#CCFF90</color>
+    <color name="colorLightCyan">#A7FFEB</color>
+    <color name="colorLightBlue">#80D8FF</color>
+    <color name="colorLightBlueGray">#CFD8DC</color>
+
+    <!--Note color notification bar counterpart-->
+    <color name="colorDarkYellow">#FFD600</color>
+    <color name="colorDarkRed">#D50000</color>
+    <color name="colorDarkGreen">#64DD17</color>
+    <color name="colorDarkCyan">#00BFA5</color>
+    <color name="colorDarkBlue">#0091EA</color>
+    <color name="colorDarkBlueGray">#455A64</color>
+    <color name="colorDarkWhite">#607D8B</color>
+
+    <!--Darkest Variance-->
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryDarkest">#0D47A1</color>
+    <color name="colorAccent">#6200ea</color> <!--Deep purple accent 700-->
+    <color name="colorAccentHighlight">#880E4F</color> <!--Deep dark pink 700-->
+</resources>

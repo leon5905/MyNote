@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/action_home"
+                android:title="My Note" />
+            <item
+                android:id="@+id/nav_archive"
+                android:icon="@drawable/action_archive"
+                android:title="Archive" />
+        </group>
+
+        <!--<item android:title="Sub items">-->
+            <!--<menu>-->
+                <!--<item-->
+                    <!--android:id="@+id/nav_example_sub_item_1"-->
+                    <!--android:title="Example Sub Item #1" />-->
+            <!--</menu>-->
+        <!--</item>-->
+
+    </menu>
